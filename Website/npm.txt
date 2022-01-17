@@ -1,0 +1,7 @@
+npm init
+npm i express.js nodemon firebase-admin bcrypt
+
+express.js      -> to create a server
+nodemon         -> to run server continuously
+firebase-admin  -> to access firebase from backend
+bcrypt          -> to encrypt the user's password before storing it inside our database

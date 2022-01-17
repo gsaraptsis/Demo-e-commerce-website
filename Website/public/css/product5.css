@@ -9,7 +9,7 @@
     width: 500px;
     height: 500px;
     position: relative;
-    background-image: url('../img/product\ image\ 1.jpg');
+    background-image: url('../img/product5\ image\ 1.jpg');
     background-size: cover;
 }
 
@@ -111,11 +111,4 @@
     grid-template-columns: repeat(4, 1fr);
     height: auto;
     grid-row-gap: 40px;
-}
-
-.listdes{
-    color: #383838;
-    line-height: 25px;
-    margin-top: 30px;
-    margin-bottom: 30px;
 }

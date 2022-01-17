@@ -7,14 +7,14 @@ const createFooter = () => {
 				<div class="footer-ul-container">
 					<ul class="category">
 						<li class="category-title">Hardware</li>
-						<li><a href="#" class="footer-link">Επεξεργαστές CPU</a></li>
-						<li><a href="#" class="footer-link">Μητρικές Κάρτες</a></li>
-						<li><a href="#" class="footer-link">Κάρτες Γραφικών GPU</a></li>
+						<li><a href="cpu-collection.html" class="footer-link">Επεξεργαστές CPU</a></li>
+						<li><a href="mb-collection.html" class="footer-link">Μητρικές κάρτες</li>
+						<li><a href="gpu-collection.html" class="footer-link">Κάρτες γραφικών</a></li>
 						<li><a href="#" class="footer-link">Μνήμες RAM</a></li>
 					</ul>
 					<ul class="category">
 						<li class="category-title">Επικοινωνία</li>
-						<li><a href="#" class="footer-link"><a href="contact.html">Επικοινωνία</a></li>
+						<li><a href="contact.html" class="footer-link">Επικοινωνία</a></li>
 						<li><a href="#" class="footer-link">Ακολουθήστε μας</a></li>
 						<li><a href="#" class="footer-link">FAQ</a></li>
 						<li><a href="#" class="footer-link">Feedback</a></li>

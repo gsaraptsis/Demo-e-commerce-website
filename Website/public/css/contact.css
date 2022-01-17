@@ -1,3 +1,8 @@
+.detail-des{
+    padding: 0 10vw;
+    text-transform: capitalize;
+}
+
 .table {
     margin-left: auto; 
     margin-right: auto;
