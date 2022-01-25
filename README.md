@@ -25,3 +25,7 @@ add delete product, edit product, and more
 ## Not Working
 
 The firebase is not connected properly
+
+##
+
+### (maybe this is the final product)
