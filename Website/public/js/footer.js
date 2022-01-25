@@ -8,7 +8,7 @@ const createFooter = () => {
 					<ul class="category">
 						<li class="category-title">Hardware</li>
 						<li><a href="cpu-collection.html" class="footer-link">Επεξεργαστές CPU</a></li>
-						<li><a href="mb-collection.html" class="footer-link">Μητρικές κάρτες</li>
+						<li><a href="mb-collection.html" class="footer-link">Μητρικές κάρτες</a></li>
 						<li><a href="gpu-collection.html" class="footer-link">Κάρτες γραφικών</a></li>
 						<li><a href="#" class="footer-link">Μνήμες RAM</a></li>
 					</ul>
@@ -21,8 +21,14 @@ const createFooter = () => {
 					</ul>
 				</div>
 			</div>
-			<p class="footer-title">adout us</p>
-			<p class="info">Ιακώβου Απόστολος- 4689 & Σαραπτσής - Βενέτης Γιώργος - 4610</p>
+			<p class="footer-title">about us</p>
+			<p class="info">
+				© 2022 <br><br>
+				Ιακώβου Απόστολος 4689<br> &<br>
+				Σαραπτσής - Βενέτης Γεώργιος 4610 <br><br>
+				Διεθνές Πανεπιστήμιο Ελλάδος <br>
+				Προγραμματιστικές Εφαρμογές στο Διαδίκτυο
+			</p>
     `;
 }
 

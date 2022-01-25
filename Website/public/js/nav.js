@@ -7,7 +7,8 @@ const createNav = () => {
             <div class="nav-items">
                 <div class="search">
                     <input type="text" class="search-box" placeholder="Αναζήτηση προϊόντος">
-                    <button class="search-btn">Αναζήτηση</button>
+                    <!-- <button class="search-btn">Αναζήτηση</button> -->
+                    <a href="search.html"class="search-btn">Αναζήτηση</a>
                 </div>
                 <a href="signup.html"><img src="img/user.png" alt=""></a>
                 <a href="#"><img src="img/cart.png" alt=""></a>

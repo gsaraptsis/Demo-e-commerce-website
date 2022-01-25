@@ -23,7 +23,7 @@ footer{
 }
 
 .category{
-    width: 200px;
+    width: auto;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 10px;

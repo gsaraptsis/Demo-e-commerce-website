@@ -40,6 +40,13 @@ const sendData = (path, data) => {
     })
 }
 
+const processData = (data) => {
+    loader.style.display = null;
+    if(data.alert){
+        showAlert(data.alert);
+    }
+}
+
 // alert function
 const showAlert = (msg) => {
     let alertBox = document.querySelector('.alert-box');
