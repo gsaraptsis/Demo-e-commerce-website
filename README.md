@@ -4,6 +4,24 @@ e-commerce website with HTML, CSS and JS
 
 (Tech e-shop in greek)
 
+##
+
+### (maybe this is the final product)
+
+## Working
+
+Sign in (with error messages)
+
+Product images preview
+
+Functioning intro, product etc (html)
+
+## Not Working
+
+The firebase is not connected properly
+
+Log in
+
 ## To Do
 
 #### working search page
@@ -21,11 +39,3 @@ validate forms before storing to database
 upload image on aws from front end
 
 add delete product, edit product, and more
-
-## Not Working
-
-The firebase is not connected properly
-
-##
-
-### (maybe this is the final product)
