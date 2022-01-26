@@ -6,7 +6,9 @@ e-commerce website with HTML, CSS and JS
 
 ##
 
-### (maybe this is the final product)
+#### (maybe this is the final product)
+
+##
 
 ## Working
 
